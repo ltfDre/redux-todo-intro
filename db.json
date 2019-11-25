@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Product -1 ",
+      "id": 1
+    },
+    {
+      "name": "Product -2",
+      "id": 2
+    },
+    {
+      "name": "Product -4",
+      "id": 4
+    }
+  ],
+  "brands": [
+    {
+      "name": "Brand 001",
+      "id": 1
+    },
+    {
+      "name": "Brand 002",
+      "id": 2
+    },
+    {
+      "name": "Brand 003",
+      "id": 3
+    }
+  ]
+}
